@@ -1,0 +1,16 @@
+C:\Users\xuuan\source\repos\FormCal\FormCal\bin\Debug\net8.0-windows\FormCal.exe
+C:\Users\xuuan\source\repos\FormCal\FormCal\bin\Debug\net8.0-windows\FormCal.deps.json
+C:\Users\xuuan\source\repos\FormCal\FormCal\bin\Debug\net8.0-windows\FormCal.runtimeconfig.json
+C:\Users\xuuan\source\repos\FormCal\FormCal\bin\Debug\net8.0-windows\FormCal.dll
+C:\Users\xuuan\source\repos\FormCal\FormCal\bin\Debug\net8.0-windows\FormCal.pdb
+C:\Users\xuuan\source\repos\FormCal\FormCal\obj\Debug\net8.0-windows\FormCal.Form1.resources
+C:\Users\xuuan\source\repos\FormCal\FormCal\obj\Debug\net8.0-windows\FormCal.csproj.GenerateResource.cache
+C:\Users\xuuan\source\repos\FormCal\FormCal\obj\Debug\net8.0-windows\FormCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xuuan\source\repos\FormCal\FormCal\obj\Debug\net8.0-windows\FormCal.AssemblyInfoInputs.cache
+C:\Users\xuuan\source\repos\FormCal\FormCal\obj\Debug\net8.0-windows\FormCal.AssemblyInfo.cs
+C:\Users\xuuan\source\repos\FormCal\FormCal\obj\Debug\net8.0-windows\FormCal.csproj.CoreCompileInputs.cache
+C:\Users\xuuan\source\repos\FormCal\FormCal\obj\Debug\net8.0-windows\FormCal.dll
+C:\Users\xuuan\source\repos\FormCal\FormCal\obj\Debug\net8.0-windows\refint\FormCal.dll
+C:\Users\xuuan\source\repos\FormCal\FormCal\obj\Debug\net8.0-windows\FormCal.pdb
+C:\Users\xuuan\source\repos\FormCal\FormCal\obj\Debug\net8.0-windows\FormCal.genruntimeconfig.cache
+C:\Users\xuuan\source\repos\FormCal\FormCal\obj\Debug\net8.0-windows\ref\FormCal.dll
