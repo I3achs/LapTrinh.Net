@@ -1,0 +1,16 @@
+C:\Users\xuuan\source\repos\thucHanh 22_10\thucHanh 22_10\bin\Debug\net8.0-windows\thucHanh 22_10.exe
+C:\Users\xuuan\source\repos\thucHanh 22_10\thucHanh 22_10\bin\Debug\net8.0-windows\thucHanh 22_10.deps.json
+C:\Users\xuuan\source\repos\thucHanh 22_10\thucHanh 22_10\bin\Debug\net8.0-windows\thucHanh 22_10.runtimeconfig.json
+C:\Users\xuuan\source\repos\thucHanh 22_10\thucHanh 22_10\bin\Debug\net8.0-windows\thucHanh 22_10.dll
+C:\Users\xuuan\source\repos\thucHanh 22_10\thucHanh 22_10\bin\Debug\net8.0-windows\thucHanh 22_10.pdb
+C:\Users\xuuan\source\repos\thucHanh 22_10\thucHanh 22_10\obj\Debug\net8.0-windows\thucHanh_22_10.Form1.resources
+C:\Users\xuuan\source\repos\thucHanh 22_10\thucHanh 22_10\obj\Debug\net8.0-windows\thucHanh 22_10.csproj.GenerateResource.cache
+C:\Users\xuuan\source\repos\thucHanh 22_10\thucHanh 22_10\obj\Debug\net8.0-windows\thucHanh 22_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xuuan\source\repos\thucHanh 22_10\thucHanh 22_10\obj\Debug\net8.0-windows\thucHanh 22_10.AssemblyInfoInputs.cache
+C:\Users\xuuan\source\repos\thucHanh 22_10\thucHanh 22_10\obj\Debug\net8.0-windows\thucHanh 22_10.AssemblyInfo.cs
+C:\Users\xuuan\source\repos\thucHanh 22_10\thucHanh 22_10\obj\Debug\net8.0-windows\thucHanh 22_10.csproj.CoreCompileInputs.cache
+C:\Users\xuuan\source\repos\thucHanh 22_10\thucHanh 22_10\obj\Debug\net8.0-windows\thucHanh 22_10.dll
+C:\Users\xuuan\source\repos\thucHanh 22_10\thucHanh 22_10\obj\Debug\net8.0-windows\refint\thucHanh 22_10.dll
+C:\Users\xuuan\source\repos\thucHanh 22_10\thucHanh 22_10\obj\Debug\net8.0-windows\thucHanh 22_10.pdb
+C:\Users\xuuan\source\repos\thucHanh 22_10\thucHanh 22_10\obj\Debug\net8.0-windows\thucHanh 22_10.genruntimeconfig.cache
+C:\Users\xuuan\source\repos\thucHanh 22_10\thucHanh 22_10\obj\Debug\net8.0-windows\ref\thucHanh 22_10.dll
