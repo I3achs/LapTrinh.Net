@@ -1,0 +1,16 @@
+C:\Users\xuuan\source\repos\KiemTra01\KiemTra01\obj\Debug\net8.0-windows\KiemTra01.Form1.resources
+C:\Users\xuuan\source\repos\KiemTra01\KiemTra01\obj\Debug\net8.0-windows\KiemTra01.csproj.GenerateResource.cache
+C:\Users\xuuan\source\repos\KiemTra01\KiemTra01\obj\Debug\net8.0-windows\KiemTra01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xuuan\source\repos\KiemTra01\KiemTra01\obj\Debug\net8.0-windows\KiemTra01.AssemblyInfoInputs.cache
+C:\Users\xuuan\source\repos\KiemTra01\KiemTra01\obj\Debug\net8.0-windows\KiemTra01.AssemblyInfo.cs
+C:\Users\xuuan\source\repos\KiemTra01\KiemTra01\obj\Debug\net8.0-windows\KiemTra01.csproj.CoreCompileInputs.cache
+C:\Users\xuuan\source\repos\KiemTra01\KiemTra01\bin\Debug\net8.0-windows\KiemTra01.exe
+C:\Users\xuuan\source\repos\KiemTra01\KiemTra01\bin\Debug\net8.0-windows\KiemTra01.deps.json
+C:\Users\xuuan\source\repos\KiemTra01\KiemTra01\bin\Debug\net8.0-windows\KiemTra01.runtimeconfig.json
+C:\Users\xuuan\source\repos\KiemTra01\KiemTra01\bin\Debug\net8.0-windows\KiemTra01.dll
+C:\Users\xuuan\source\repos\KiemTra01\KiemTra01\bin\Debug\net8.0-windows\KiemTra01.pdb
+C:\Users\xuuan\source\repos\KiemTra01\KiemTra01\obj\Debug\net8.0-windows\KiemTra01.dll
+C:\Users\xuuan\source\repos\KiemTra01\KiemTra01\obj\Debug\net8.0-windows\refint\KiemTra01.dll
+C:\Users\xuuan\source\repos\KiemTra01\KiemTra01\obj\Debug\net8.0-windows\KiemTra01.pdb
+C:\Users\xuuan\source\repos\KiemTra01\KiemTra01\obj\Debug\net8.0-windows\KiemTra01.genruntimeconfig.cache
+C:\Users\xuuan\source\repos\KiemTra01\KiemTra01\obj\Debug\net8.0-windows\ref\KiemTra01.dll
