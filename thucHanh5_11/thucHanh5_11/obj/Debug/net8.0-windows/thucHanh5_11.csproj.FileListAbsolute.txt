@@ -1,0 +1,16 @@
+C:\Users\xuuan\source\repos\thucHanh5_11\thucHanh5_11\bin\Debug\net8.0-windows\thucHanh5_11.exe
+C:\Users\xuuan\source\repos\thucHanh5_11\thucHanh5_11\bin\Debug\net8.0-windows\thucHanh5_11.deps.json
+C:\Users\xuuan\source\repos\thucHanh5_11\thucHanh5_11\bin\Debug\net8.0-windows\thucHanh5_11.runtimeconfig.json
+C:\Users\xuuan\source\repos\thucHanh5_11\thucHanh5_11\bin\Debug\net8.0-windows\thucHanh5_11.dll
+C:\Users\xuuan\source\repos\thucHanh5_11\thucHanh5_11\bin\Debug\net8.0-windows\thucHanh5_11.pdb
+C:\Users\xuuan\source\repos\thucHanh5_11\thucHanh5_11\obj\Debug\net8.0-windows\thucHanh5_11.Form1.resources
+C:\Users\xuuan\source\repos\thucHanh5_11\thucHanh5_11\obj\Debug\net8.0-windows\thucHanh5_11.csproj.GenerateResource.cache
+C:\Users\xuuan\source\repos\thucHanh5_11\thucHanh5_11\obj\Debug\net8.0-windows\thucHanh5_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xuuan\source\repos\thucHanh5_11\thucHanh5_11\obj\Debug\net8.0-windows\thucHanh5_11.AssemblyInfoInputs.cache
+C:\Users\xuuan\source\repos\thucHanh5_11\thucHanh5_11\obj\Debug\net8.0-windows\thucHanh5_11.AssemblyInfo.cs
+C:\Users\xuuan\source\repos\thucHanh5_11\thucHanh5_11\obj\Debug\net8.0-windows\thucHanh5_11.csproj.CoreCompileInputs.cache
+C:\Users\xuuan\source\repos\thucHanh5_11\thucHanh5_11\obj\Debug\net8.0-windows\thucHanh5_11.dll
+C:\Users\xuuan\source\repos\thucHanh5_11\thucHanh5_11\obj\Debug\net8.0-windows\refint\thucHanh5_11.dll
+C:\Users\xuuan\source\repos\thucHanh5_11\thucHanh5_11\obj\Debug\net8.0-windows\thucHanh5_11.pdb
+C:\Users\xuuan\source\repos\thucHanh5_11\thucHanh5_11\obj\Debug\net8.0-windows\thucHanh5_11.genruntimeconfig.cache
+C:\Users\xuuan\source\repos\thucHanh5_11\thucHanh5_11\obj\Debug\net8.0-windows\ref\thucHanh5_11.dll
